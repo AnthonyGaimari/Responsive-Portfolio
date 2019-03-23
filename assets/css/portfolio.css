@@ -1,0 +1,56 @@
+.cover1 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("../images/phonesam.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .cover2 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("../images/techboard.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .cover3 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("../images/cables.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .cover4 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("../images/turntbl.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+  }
+  .cover5 {
+    display: inline-block;
+    width: 225px;
+    height: 175px;
+    margin: 30px 20px 10px 0px;
+    padding: 25px; 
+    background-image: url("../images/keyboard.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
