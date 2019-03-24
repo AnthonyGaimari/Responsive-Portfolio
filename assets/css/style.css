@@ -175,11 +175,8 @@ h4 {
     font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
     background-image: url("../images/kindajean.png");
    }
-  div.example {
-    display: none;
-  }
   header {
-    width: 95%;
+    width: auto;
     margin-bottom: 25px;
     background-color: #fff;
     border-bottom: 2px solid #ccc;
