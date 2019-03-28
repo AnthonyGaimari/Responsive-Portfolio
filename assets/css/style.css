@@ -169,7 +169,7 @@ h4 {
   padding: 14px 0px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (min-width: 0px) and (max-width: 640px) {
   body {
     margin: 0;
     font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
@@ -404,7 +404,7 @@ h4 {
   
   .center {
     margin: auto;
-    width: 65%;
+    width: 79%;
     background-color: white;
     border-style: solid;
     border-width: 2px;
